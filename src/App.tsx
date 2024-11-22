@@ -2,9 +2,9 @@ import React from "react";
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
 import { UserProvider } from "./context/UserContext";
-import Home from "./pages/Home/Home";
+import { Home } from "./pages/Home/Home";
 import { Landing } from "./pages/Landing/Landing";
-import Login from "./pages/Login/Login";
+import { Login } from "./pages/Login/Login";
 
 function App() {
   return (

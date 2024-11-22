@@ -2,3 +2,7 @@
   text-align: center;
   min-height: 100vh;
 }
+
+.MuiHelperText-root {
+  background-color: transparent;
+}
