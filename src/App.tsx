@@ -5,6 +5,7 @@ import { UserProvider } from "./context/UserContext";
 import { Home } from "./pages/Home/Home";
 import { Landing } from "./pages/Landing/Landing";
 import { Login } from "./pages/Login/Login";
+import { NotFound } from "./pages/NotFound/NotFound";
 import { Signup } from "./pages/Signup/Signup";
 
 function App() {
@@ -19,6 +20,8 @@ function App() {
 
           {/* Private routes */}
           <Route path="/home" element={<Home />} />
+
+          <Route path="*" element={<NotFound />} />
         </Routes>
       </UserProvider>
     </main>
