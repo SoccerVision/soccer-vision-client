@@ -5,7 +5,7 @@ import {
   createContext,
   useState,
 } from "react";
-import User from "../types/user";
+import { User } from "../types/user";
 
 export interface UserContextInterface {
   user: User;
@@ -17,11 +17,9 @@ export const defaultUserState: UserContextInterface = {
     user_id: "",
     email: "",
     password: "",
-    avatar: "",
     userName: "",
     teamName: "",
-    Nationality: "",
-    invitedBy: "",
+    nationality: "",
     isPartialUser: false,
     accessToken: "",
   },

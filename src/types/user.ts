@@ -1,12 +1,10 @@
-export default interface User {
+export interface User {
   user_id: string;
   email: string;
   password: string;
-  avatar: string;
   userName: string;
   teamName: string;
-  Nationality: string;
-  invitedBy: string | null;
+  nationality: string;
   isPartialUser: boolean;
   accessToken: string;
 }

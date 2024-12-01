@@ -8,10 +8,8 @@ import {
   TextField,
 } from "@mui/material";
 import React from "react";
-import {
-  FacebookIcon,
-  GoogleIcon,
-} from "../../components/core/Icon/CustomIcons";
+import { FacebookIcon } from "../../assets/icons/facebook";
+import { GoogleIcon } from "../../assets/icons/google";
 import "./Login.css";
 
 export const Login = () => {
