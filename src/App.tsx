@@ -1,10 +1,13 @@
 import React from 'react';
 import './App.css';
+import PhaserGame from "./components/PhaserGame/PhaserGame";
+import Scoreboard from "./components/Scoreboard/Scoreboard";
 
 function App() {
   return (
     <div className="App">
-        Hey there
+        <PhaserGame />
+        <Scoreboard />
     </div>
   );
 }

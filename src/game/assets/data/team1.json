@@ -1,0 +1,1302 @@
+[
+  {
+    "ID": "c73c3a66-7a44-4940-9b49-bbb701b9d5b2",
+    "Name": "Robert White",
+    "Shirt_Number": 84,
+    "Position": "Goalkeeper",
+    "Level": "Normal",
+    "Age": 27,
+    "Height": 181,
+    "Preferred_Foot": {
+      "Dominant Foot": "Right",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 80,
+    "Fitness": "Low",
+    "Nationality": "CountryB",
+    "Stats": {
+      "Mental": {
+        "Aggression": 70,
+        "Teamwork": 15,
+        "Decisions": 17,
+        "Composure": 45
+      },
+      "Athletic": {
+        "Physical Power": 69,
+        "Ball Control": 41,
+        "Dribbling": 32,
+        "Jumping": 65,
+        "Acceleration": 54,
+        "Speed": 36,
+        "Heading": 65
+      },
+      "Set Pieces": {
+        "Free Kicks": 29,
+        "Penalty": 25
+      },
+      "Goalkeeping": {
+        "Aerial Ability": 65,
+        "Handling": 73,
+        "Kicking": 55,
+        "One on One": 72,
+        "Reflexes": 60
+      }
+    },
+    "Averages": {
+      "Mental": 37,
+      "Athletic": 52,
+      "Set Pieces": 27,
+      "Goalkeeping": 65
+    }
+  },
+  {
+    "ID": "096a4d7d-323c-43ba-a080-044185a34ec3",
+    "Name": "Daniel Martin",
+    "Shirt_Number": 92,
+    "Position": "Goalkeeper",
+    "Level": "Normal",
+    "Age": 21,
+    "Height": 183,
+    "Preferred_Foot": {
+      "Dominant Foot": "Right",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 56,
+    "Fitness": "Moderate",
+    "Nationality": "CountryC",
+    "Stats": {
+      "Mental": {
+        "Aggression": 68,
+        "Teamwork": 12,
+        "Decisions": 12,
+        "Composure": 40
+      },
+      "Athletic": {
+        "Physical Power": 65,
+        "Ball Control": 45,
+        "Dribbling": 48,
+        "Jumping": 65,
+        "Acceleration": 41,
+        "Speed": 52,
+        "Heading": 71
+      },
+      "Set Pieces": {
+        "Free Kicks": 29,
+        "Penalty": 30
+      },
+      "Goalkeeping": {
+        "Aerial Ability": 64,
+        "Handling": 73,
+        "Kicking": 60,
+        "One on One": 64,
+        "Reflexes": 68
+      }
+    },
+    "Averages": {
+      "Mental": 33,
+      "Athletic": 55,
+      "Set Pieces": 30,
+      "Goalkeeping": 66
+    }
+  },
+  {
+    "ID": "fa207012-8119-443e-83af-f1c9ea974893",
+    "Name": "Michael Anderson",
+    "Shirt_Number": 76,
+    "Position": "Defender",
+    "Level": "Normal",
+    "Age": 23,
+    "Height": 180,
+    "Preferred_Foot": {
+      "Dominant Foot": "Right",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 60,
+    "Fitness": "Moderate",
+    "Nationality": "CountryA",
+    "Stats": {
+      "Mental": {
+        "Aggression": 81,
+        "Teamwork": 14,
+        "Decisions": 19,
+        "Composure": 44
+      },
+      "Defense": {
+        "Tackling": 73,
+        "Marking": 67,
+        "Positioning": 70
+      },
+      "Attack": {
+        "Finishing": 21,
+        "Long Shots": 30,
+        "Off The Ball": 27
+      },
+      "Playmaking": {
+        "Creative": 54,
+        "Passing": 42,
+        "Crossing": 48
+      },
+      "Athletic": {
+        "Physical Power": 67,
+        "Ball Control": 59,
+        "Dribbling": 48,
+        "Jumping": 66,
+        "Acceleration": 70,
+        "Speed": 56,
+        "Heading": 70
+      },
+      "Set Pieces": {
+        "Free Kicks": 41,
+        "Penalty": 56
+      }
+    },
+    "Averages": {
+      "Mental": 40,
+      "Defense": 70,
+      "Attack": 26,
+      "Playmaking": 48,
+      "Athletic": 62,
+      "Set Pieces": 48
+    }
+  },
+  {
+    "ID": "17ada8ef-c2b9-4de8-af68-f7321f1bda94",
+    "Name": "Chris Thomas",
+    "Shirt_Number": 73,
+    "Position": "Defender",
+    "Level": "Normal",
+    "Age": 23,
+    "Height": 190,
+    "Preferred_Foot": {
+      "Dominant Foot": "Right",
+      "Weak Foot Level": 2
+    },
+    "Stamina": 67,
+    "Fitness": "Moderate",
+    "Nationality": "CountryB",
+    "Stats": {
+      "Mental": {
+        "Aggression": 77,
+        "Teamwork": 10,
+        "Decisions": 19,
+        "Composure": 48
+      },
+      "Defense": {
+        "Tackling": 78,
+        "Marking": 73,
+        "Positioning": 73
+      },
+      "Attack": {
+        "Finishing": 33,
+        "Long Shots": 28,
+        "Off The Ball": 28
+      },
+      "Playmaking": {
+        "Creative": 45,
+        "Passing": 52,
+        "Crossing": 45
+      },
+      "Athletic": {
+        "Physical Power": 65,
+        "Ball Control": 51,
+        "Dribbling": 55,
+        "Jumping": 67,
+        "Acceleration": 65,
+        "Speed": 75,
+        "Heading": 65
+      },
+      "Set Pieces": {
+        "Free Kicks": 43,
+        "Penalty": 82
+      }
+    },
+    "Averages": {
+      "Mental": 38,
+      "Defense": 75,
+      "Attack": 30,
+      "Playmaking": 47,
+      "Athletic": 63,
+      "Set Pieces": 62
+    }
+  },
+  {
+    "ID": "d26b7046-8f08-4b8d-8e2c-e7249e13faf7",
+    "Name": "David Johnson",
+    "Shirt_Number": 64,
+    "Position": "Defender",
+    "Level": "Normal",
+    "Age": 22,
+    "Height": 187,
+    "Preferred_Foot": {
+      "Dominant Foot": "Right",
+      "Weak Foot Level": 2
+    },
+    "Stamina": 77,
+    "Fitness": "Low",
+    "Nationality": "CountryB",
+    "Stats": {
+      "Mental": {
+        "Aggression": 68,
+        "Teamwork": 11,
+        "Decisions": 14,
+        "Composure": 48
+      },
+      "Defense": {
+        "Tackling": 65,
+        "Marking": 60,
+        "Positioning": 62
+      },
+      "Attack": {
+        "Finishing": 27,
+        "Long Shots": 17,
+        "Off The Ball": 28
+      },
+      "Playmaking": {
+        "Creative": 40,
+        "Passing": 48,
+        "Crossing": 41
+      },
+      "Athletic": {
+        "Physical Power": 66,
+        "Ball Control": 47,
+        "Dribbling": 40,
+        "Jumping": 65,
+        "Acceleration": 59,
+        "Speed": 46,
+        "Heading": 65
+      },
+      "Set Pieces": {
+        "Free Kicks": 44,
+        "Penalty": 50
+      }
+    },
+    "Averages": {
+      "Mental": 35,
+      "Defense": 62,
+      "Attack": 24,
+      "Playmaking": 43,
+      "Athletic": 55,
+      "Set Pieces": 47
+    }
+  },
+  {
+    "ID": "63dc4aca-c998-426a-b417-47c255770d56",
+    "Name": "Daniel Martin",
+    "Shirt_Number": 55,
+    "Position": "FullBack",
+    "Level": "Normal",
+    "Age": 26,
+    "Height": 187,
+    "Preferred_Foot": {
+      "Dominant Foot": "Left",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 75,
+    "Fitness": "Moderate",
+    "Nationality": "CountryC",
+    "Stats": {
+      "Mental": {
+        "Aggression": 83,
+        "Teamwork": 17,
+        "Decisions": 23,
+        "Composure": 57
+      },
+      "Defense": {
+        "Tackling": 70,
+        "Marking": 69,
+        "Positioning": 68
+      },
+      "Attack": {
+        "Finishing": 34,
+        "Long Shots": 36,
+        "Off The Ball": 49
+      },
+      "Playmaking": {
+        "Creative": 40,
+        "Passing": 51,
+        "Crossing": 68
+      },
+      "Athletic": {
+        "Physical Power": 68,
+        "Ball Control": 54,
+        "Dribbling": 54,
+        "Jumping": 82,
+        "Acceleration": 65,
+        "Speed": 61,
+        "Heading": 81
+      },
+      "Set Pieces": {
+        "Free Kicks": 39,
+        "Penalty": 70
+      }
+    },
+    "Averages": {
+      "Mental": 45,
+      "Defense": 69,
+      "Attack": 40,
+      "Playmaking": 53,
+      "Athletic": 66,
+      "Set Pieces": 54
+    }
+  },
+  {
+    "ID": "c2bf12a8-f7a4-4915-b1fc-3c08d9b771f0",
+    "Name": "Michael Martin",
+    "Shirt_Number": 96,
+    "Position": "FullBack",
+    "Level": "Normal",
+    "Age": 28,
+    "Height": 174,
+    "Preferred_Foot": {
+      "Dominant Foot": "Right",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 85,
+    "Fitness": "Moderate",
+    "Nationality": "CountryC",
+    "Stats": {
+      "Mental": {
+        "Aggression": 77,
+        "Teamwork": 21,
+        "Decisions": 21,
+        "Composure": 50
+      },
+      "Defense": {
+        "Tackling": 69,
+        "Marking": 72,
+        "Positioning": 62
+      },
+      "Attack": {
+        "Finishing": 30,
+        "Long Shots": 46,
+        "Off The Ball": 43
+      },
+      "Playmaking": {
+        "Creative": 49,
+        "Passing": 46,
+        "Crossing": 64
+      },
+      "Athletic": {
+        "Physical Power": 72,
+        "Ball Control": 63,
+        "Dribbling": 67,
+        "Jumping": 68,
+        "Acceleration": 72,
+        "Speed": 75,
+        "Heading": 67
+      },
+      "Set Pieces": {
+        "Free Kicks": 43,
+        "Penalty": 56
+      }
+    },
+    "Averages": {
+      "Mental": 42,
+      "Defense": 68,
+      "Attack": 40,
+      "Playmaking": 53,
+      "Athletic": 69,
+      "Set Pieces": 50
+    }
+  },
+  {
+    "ID": "b3d34247-6ae4-44e4-84fb-3d50a4d5b22c",
+    "Name": "Robert Johnson",
+    "Shirt_Number": 74,
+    "Position": "FullBack",
+    "Level": "Normal",
+    "Age": 22,
+    "Height": 177,
+    "Preferred_Foot": {
+      "Dominant Foot": "Left",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 60,
+    "Fitness": "Moderate",
+    "Nationality": "CountryA",
+    "Stats": {
+      "Mental": {
+        "Aggression": 82,
+        "Teamwork": 11,
+        "Decisions": 25,
+        "Composure": 56
+      },
+      "Defense": {
+        "Tackling": 70,
+        "Marking": 70,
+        "Positioning": 72
+      },
+      "Attack": {
+        "Finishing": 36,
+        "Long Shots": 32,
+        "Off The Ball": 46
+      },
+      "Playmaking": {
+        "Creative": 49,
+        "Passing": 48,
+        "Crossing": 70
+      },
+      "Athletic": {
+        "Physical Power": 51,
+        "Ball Control": 64,
+        "Dribbling": 64,
+        "Jumping": 55,
+        "Acceleration": 70,
+        "Speed": 65,
+        "Heading": 57
+      },
+      "Set Pieces": {
+        "Free Kicks": 62,
+        "Penalty": 52
+      }
+    },
+    "Averages": {
+      "Mental": 44,
+      "Defense": 71,
+      "Attack": 38,
+      "Playmaking": 56,
+      "Athletic": 61,
+      "Set Pieces": 57
+    }
+  },
+  {
+    "ID": "d61f0a1d-5886-42dc-b63f-575e321ea3be",
+    "Name": "Chris White",
+    "Shirt_Number": 23,
+    "Position": "FullBack",
+    "Level": "Normal",
+    "Age": 30,
+    "Height": 190,
+    "Preferred_Foot": {
+      "Dominant Foot": "Right",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 81,
+    "Fitness": "Moderate",
+    "Nationality": "CountryB",
+    "Stats": {
+      "Mental": {
+        "Aggression": 83,
+        "Teamwork": 15,
+        "Decisions": 21,
+        "Composure": 57
+      },
+      "Defense": {
+        "Tackling": 70,
+        "Marking": 70,
+        "Positioning": 62
+      },
+      "Attack": {
+        "Finishing": 44,
+        "Long Shots": 42,
+        "Off The Ball": 44
+      },
+      "Playmaking": {
+        "Creative": 47,
+        "Passing": 45,
+        "Crossing": 71
+      },
+      "Athletic": {
+        "Physical Power": 71,
+        "Ball Control": 54,
+        "Dribbling": 61,
+        "Jumping": 71,
+        "Acceleration": 63,
+        "Speed": 66,
+        "Heading": 65
+      },
+      "Set Pieces": {
+        "Free Kicks": 59,
+        "Penalty": 67
+      }
+    },
+    "Averages": {
+      "Mental": 44,
+      "Defense": 67,
+      "Attack": 43,
+      "Playmaking": 54,
+      "Athletic": 64,
+      "Set Pieces": 63
+    }
+  },
+  {
+    "ID": "7bfe308b-1968-4eab-b2d9-2199a35a3e6c",
+    "Name": "Michael Thomas",
+    "Shirt_Number": 85,
+    "Position": "Striker",
+    "Level": "Normal",
+    "Age": 29,
+    "Height": 177,
+    "Preferred_Foot": {
+      "Dominant Foot": "Left",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 54,
+    "Fitness": "Low",
+    "Nationality": "CountryA",
+    "Stats": {
+      "Mental": {
+        "Aggression": 74,
+        "Teamwork": 18,
+        "Decisions": 16,
+        "Composure": 54
+      },
+      "Defense": {
+        "Tackling": 23,
+        "Marking": 21,
+        "Positioning": 31
+      },
+      "Attack": {
+        "Finishing": 65,
+        "Long Shots": 57,
+        "Off The Ball": 60
+      },
+      "Playmaking": {
+        "Creative": 49,
+        "Passing": 49,
+        "Crossing": 42
+      },
+      "Athletic": {
+        "Physical Power": 68,
+        "Ball Control": 52,
+        "Dribbling": 59,
+        "Jumping": 65,
+        "Acceleration": 63,
+        "Speed": 56,
+        "Heading": 65
+      },
+      "Set Pieces": {
+        "Free Kicks": 51,
+        "Penalty": 59
+      }
+    },
+    "Averages": {
+      "Mental": 40,
+      "Defense": 25,
+      "Attack": 61,
+      "Playmaking": 47,
+      "Athletic": 61,
+      "Set Pieces": 55
+    }
+  },
+  {
+    "ID": "466947a5-8bcf-4a9e-96f2-54b20755c407",
+    "Name": "David Thomas",
+    "Shirt_Number": 65,
+    "Position": "Striker",
+    "Level": "Normal",
+    "Age": 27,
+    "Height": 162,
+    "Preferred_Foot": {
+      "Dominant Foot": "Right",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 61,
+    "Fitness": "Moderate",
+    "Nationality": "CountryB",
+    "Stats": {
+      "Mental": {
+        "Aggression": 80,
+        "Teamwork": 16,
+        "Decisions": 26,
+        "Composure": 70
+      },
+      "Defense": {
+        "Tackling": 29,
+        "Marking": 37,
+        "Positioning": 38
+      },
+      "Attack": {
+        "Finishing": 71,
+        "Long Shots": 71,
+        "Off The Ball": 65
+      },
+      "Playmaking": {
+        "Creative": 41,
+        "Passing": 53,
+        "Crossing": 47
+      },
+      "Athletic": {
+        "Physical Power": 59,
+        "Ball Control": 59,
+        "Dribbling": 70,
+        "Jumping": 36,
+        "Acceleration": 71,
+        "Speed": 72,
+        "Heading": 41
+      },
+      "Set Pieces": {
+        "Free Kicks": 47,
+        "Penalty": 74
+      }
+    },
+    "Averages": {
+      "Mental": 48,
+      "Defense": 35,
+      "Attack": 69,
+      "Playmaking": 47,
+      "Athletic": 58,
+      "Set Pieces": 60
+    }
+  },
+  {
+    "ID": "60357536-7751-408c-8313-cdcc075c7c1e",
+    "Name": "William Brown",
+    "Shirt_Number": 88,
+    "Position": "Striker",
+    "Level": "Normal",
+    "Age": 24,
+    "Height": 185,
+    "Preferred_Foot": {
+      "Dominant Foot": "Right",
+      "Weak Foot Level": 2
+    },
+    "Stamina": 56,
+    "Fitness": "Peak",
+    "Nationality": "CountryB",
+    "Stats": {
+      "Mental": {
+        "Aggression": 76,
+        "Teamwork": 15,
+        "Decisions": 17,
+        "Composure": 76
+      },
+      "Defense": {
+        "Tackling": 23,
+        "Marking": 29,
+        "Positioning": 24
+      },
+      "Attack": {
+        "Finishing": 84,
+        "Long Shots": 76,
+        "Off The Ball": 71
+      },
+      "Playmaking": {
+        "Creative": 50,
+        "Passing": 50,
+        "Crossing": 52
+      },
+      "Athletic": {
+        "Physical Power": 76,
+        "Ball Control": 52,
+        "Dribbling": 65,
+        "Jumping": 57,
+        "Acceleration": 65,
+        "Speed": 73,
+        "Heading": 69
+      },
+      "Set Pieces": {
+        "Free Kicks": 63,
+        "Penalty": 64
+      }
+    },
+    "Averages": {
+      "Mental": 46,
+      "Defense": 25,
+      "Attack": 77,
+      "Playmaking": 51,
+      "Athletic": 65,
+      "Set Pieces": 64
+    }
+  },
+  {
+    "ID": "880a96de-06a3-4433-8a2d-256916fa10fb",
+    "Name": "David Anderson",
+    "Shirt_Number": 60,
+    "Position": "Winger",
+    "Level": "Normal",
+    "Age": 25,
+    "Height": 176,
+    "Preferred_Foot": {
+      "Dominant Foot": "Right",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 66,
+    "Fitness": "Low",
+    "Nationality": "CountryB",
+    "Stats": {
+      "Mental": {
+        "Aggression": 76,
+        "Teamwork": 4,
+        "Decisions": 25,
+        "Composure": 50
+      },
+      "Defense": {
+        "Tackling": 28,
+        "Marking": 28,
+        "Positioning": 46
+      },
+      "Attack": {
+        "Finishing": 59,
+        "Long Shots": 56,
+        "Off The Ball": 65
+      },
+      "Playmaking": {
+        "Creative": 58,
+        "Passing": 65,
+        "Crossing": 61
+      },
+      "Athletic": {
+        "Physical Power": 38,
+        "Ball Control": 62,
+        "Dribbling": 67,
+        "Jumping": 65,
+        "Acceleration": 66,
+        "Speed": 66,
+        "Heading": 65
+      },
+      "Set Pieces": {
+        "Free Kicks": 52,
+        "Penalty": 68
+      }
+    },
+    "Averages": {
+      "Mental": 39,
+      "Defense": 34,
+      "Attack": 60,
+      "Playmaking": 61,
+      "Athletic": 61,
+      "Set Pieces": 60
+    }
+  },
+  {
+    "ID": "cf2e46e0-9205-431b-9f64-b90a859cacfa",
+    "Name": "Chris Harris",
+    "Shirt_Number": 7,
+    "Position": "Winger",
+    "Level": "Normal",
+    "Age": 25,
+    "Height": 172,
+    "Preferred_Foot": {
+      "Dominant Foot": "Right",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 62,
+    "Fitness": "Moderate",
+    "Nationality": "CountryC",
+    "Stats": {
+      "Mental": {
+        "Aggression": 85,
+        "Teamwork": 7,
+        "Decisions": 18,
+        "Composure": 63
+      },
+      "Defense": {
+        "Tackling": 25,
+        "Marking": 33,
+        "Positioning": 52
+      },
+      "Attack": {
+        "Finishing": 73,
+        "Long Shots": 61,
+        "Off The Ball": 71
+      },
+      "Playmaking": {
+        "Creative": 69,
+        "Passing": 67,
+        "Crossing": 63
+      },
+      "Athletic": {
+        "Physical Power": 35,
+        "Ball Control": 75,
+        "Dribbling": 68,
+        "Jumping": 64,
+        "Acceleration": 78,
+        "Speed": 67,
+        "Heading": 67
+      },
+      "Set Pieces": {
+        "Free Kicks": 55,
+        "Penalty": 84
+      }
+    },
+    "Averages": {
+      "Mental": 43,
+      "Defense": 37,
+      "Attack": 68,
+      "Playmaking": 66,
+      "Athletic": 65,
+      "Set Pieces": 70
+    }
+  },
+  {
+    "ID": "824f90fd-c687-44fb-a92c-a811a781e0cc",
+    "Name": "Robert Johnson",
+    "Shirt_Number": 43,
+    "Position": "Midfielder",
+    "Level": "Normal",
+    "Age": 28,
+    "Height": 168,
+    "Preferred_Foot": {
+      "Dominant Foot": "Left",
+      "Weak Foot Level": 2
+    },
+    "Stamina": 61,
+    "Fitness": "Moderate",
+    "Nationality": "CountryB",
+    "Stats": {
+      "Mental": {
+        "Aggression": 88,
+        "Teamwork": 15,
+        "Decisions": 29,
+        "Composure": 51
+      },
+      "Defense": {
+        "Tackling": 52,
+        "Marking": 51,
+        "Positioning": 49
+      },
+      "Attack": {
+        "Finishing": 53,
+        "Long Shots": 62,
+        "Off The Ball": 61
+      },
+      "Playmaking": {
+        "Creative": 71,
+        "Passing": 76,
+        "Crossing": 71
+      },
+      "Athletic": {
+        "Physical Power": 70,
+        "Ball Control": 57,
+        "Dribbling": 64,
+        "Jumping": 63,
+        "Acceleration": 73,
+        "Speed": 56,
+        "Heading": 70
+      },
+      "Set Pieces": {
+        "Free Kicks": 66,
+        "Penalty": 40
+      }
+    },
+    "Averages": {
+      "Mental": 46,
+      "Defense": 51,
+      "Attack": 59,
+      "Playmaking": 73,
+      "Athletic": 65,
+      "Set Pieces": 53
+    }
+  },
+  {
+    "ID": "875cfbac-9a1e-424e-9848-c97abced2da3",
+    "Name": "Daniel Martin",
+    "Shirt_Number": 53,
+    "Position": "Midfielder",
+    "Level": "Normal",
+    "Age": 21,
+    "Height": 175,
+    "Preferred_Foot": {
+      "Dominant Foot": "Right",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 67,
+    "Fitness": "Moderate",
+    "Nationality": "CountryC",
+    "Stats": {
+      "Mental": {
+        "Aggression": 81,
+        "Teamwork": 22,
+        "Decisions": 16,
+        "Composure": 52
+      },
+      "Defense": {
+        "Tackling": 46,
+        "Marking": 52,
+        "Positioning": 46
+      },
+      "Attack": {
+        "Finishing": 54,
+        "Long Shots": 72,
+        "Off The Ball": 57
+      },
+      "Playmaking": {
+        "Creative": 64,
+        "Passing": 60,
+        "Crossing": 68
+      },
+      "Athletic": {
+        "Physical Power": 67,
+        "Ball Control": 61,
+        "Dribbling": 57,
+        "Jumping": 65,
+        "Acceleration": 57,
+        "Speed": 66,
+        "Heading": 65
+      },
+      "Set Pieces": {
+        "Free Kicks": 37,
+        "Penalty": 71
+      }
+    },
+    "Averages": {
+      "Mental": 43,
+      "Defense": 48,
+      "Attack": 61,
+      "Playmaking": 64,
+      "Athletic": 63,
+      "Set Pieces": 54
+    }
+  },
+  {
+    "ID": "63e43058-4c0d-4fa4-bd9b-5805c005909b",
+    "Name": "David Taylor",
+    "Shirt_Number": 35,
+    "Position": "Midfielder",
+    "Level": "Normal",
+    "Age": 25,
+    "Height": 189,
+    "Preferred_Foot": {
+      "Dominant Foot": "Left",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 60,
+    "Fitness": "Moderate",
+    "Nationality": "CountryA",
+    "Stats": {
+      "Mental": {
+        "Aggression": 87,
+        "Teamwork": 20,
+        "Decisions": 16,
+        "Composure": 50
+      },
+      "Defense": {
+        "Tackling": 48,
+        "Marking": 51,
+        "Positioning": 55
+      },
+      "Attack": {
+        "Finishing": 68,
+        "Long Shots": 86,
+        "Off The Ball": 78
+      },
+      "Playmaking": {
+        "Creative": 69,
+        "Passing": 77,
+        "Crossing": 73
+      },
+      "Athletic": {
+        "Physical Power": 78,
+        "Ball Control": 61,
+        "Dribbling": 55,
+        "Jumping": 65,
+        "Acceleration": 64,
+        "Speed": 68,
+        "Heading": 65
+      },
+      "Set Pieces": {
+        "Free Kicks": 70,
+        "Penalty": 53
+      }
+    },
+    "Averages": {
+      "Mental": 43,
+      "Defense": 51,
+      "Attack": 77,
+      "Playmaking": 73,
+      "Athletic": 65,
+      "Set Pieces": 62
+    }
+  },
+  {
+    "ID": "1a351fe8-290a-4ac1-a3df-595c97ddfd79",
+    "Name": "Thomas Johnson",
+    "Shirt_Number": 36,
+    "Position": "Midfielder",
+    "Level": "Normal",
+    "Age": 21,
+    "Height": 167,
+    "Preferred_Foot": {
+      "Dominant Foot": "Right",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 69,
+    "Fitness": "Moderate",
+    "Nationality": "CountryB",
+    "Stats": {
+      "Mental": {
+        "Aggression": 77,
+        "Teamwork": 11,
+        "Decisions": 25,
+        "Composure": 42
+      },
+      "Defense": {
+        "Tackling": 71,
+        "Marking": 75,
+        "Positioning": 84
+      },
+      "Attack": {
+        "Finishing": 45,
+        "Long Shots": 57,
+        "Off The Ball": 52
+      },
+      "Playmaking": {
+        "Creative": 70,
+        "Passing": 72,
+        "Crossing": 65
+      },
+      "Athletic": {
+        "Physical Power": 67,
+        "Ball Control": 58,
+        "Dribbling": 63,
+        "Jumping": 65,
+        "Acceleration": 60,
+        "Speed": 64,
+        "Heading": 65
+      },
+      "Set Pieces": {
+        "Free Kicks": 48,
+        "Penalty": 61
+      }
+    },
+    "Averages": {
+      "Mental": 39,
+      "Defense": 77,
+      "Attack": 51,
+      "Playmaking": 69,
+      "Athletic": 63,
+      "Set Pieces": 54
+    }
+  },
+  {
+    "ID": "2bd31226-c22f-4872-9620-7a522f7879c8",
+    "Name": "Thomas Johnson",
+    "Shirt_Number": 39,
+    "Position": "FullBack",
+    "Level": "Normal",
+    "Age": 21,
+    "Height": 175,
+    "Preferred_Foot": {
+      "Dominant Foot": "Left",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 62,
+    "Fitness": "Moderate",
+    "Nationality": "CountryC",
+    "Stats": {
+      "Mental": {
+        "Aggression": 74,
+        "Teamwork": 13,
+        "Decisions": 17,
+        "Composure": 53
+      },
+      "Defense": {
+        "Tackling": 70,
+        "Marking": 65,
+        "Positioning": 60
+      },
+      "Attack": {
+        "Finishing": 39,
+        "Long Shots": 44,
+        "Off The Ball": 49
+      },
+      "Playmaking": {
+        "Creative": 51,
+        "Passing": 51,
+        "Crossing": 71
+      },
+      "Athletic": {
+        "Physical Power": 54,
+        "Ball Control": 62,
+        "Dribbling": 60,
+        "Jumping": 56,
+        "Acceleration": 73,
+        "Speed": 77,
+        "Heading": 63
+      },
+      "Set Pieces": {
+        "Free Kicks": 69,
+        "Penalty": 66
+      }
+    },
+    "Averages": {
+      "Mental": 39,
+      "Defense": 65,
+      "Attack": 44,
+      "Playmaking": 58,
+      "Athletic": 64,
+      "Set Pieces": 68
+    }
+  },
+  {
+    "ID": "6faff348-92ae-41e3-9a21-07d2532c19be",
+    "Name": "Chris Taylor",
+    "Shirt_Number": 79,
+    "Position": "FullBack",
+    "Level": "Normal",
+    "Age": 21,
+    "Height": 183,
+    "Preferred_Foot": {
+      "Dominant Foot": "Left",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 76,
+    "Fitness": "Moderate",
+    "Nationality": "CountryA",
+    "Stats": {
+      "Mental": {
+        "Aggression": 74,
+        "Teamwork": 13,
+        "Decisions": 6,
+        "Composure": 58
+      },
+      "Defense": {
+        "Tackling": 70,
+        "Marking": 64,
+        "Positioning": 68
+      },
+      "Attack": {
+        "Finishing": 38,
+        "Long Shots": 34,
+        "Off The Ball": 54
+      },
+      "Playmaking": {
+        "Creative": 47,
+        "Passing": 43,
+        "Crossing": 70
+      },
+      "Athletic": {
+        "Physical Power": 73,
+        "Ball Control": 57,
+        "Dribbling": 60,
+        "Jumping": 65,
+        "Acceleration": 64,
+        "Speed": 60,
+        "Heading": 65
+      },
+      "Set Pieces": {
+        "Free Kicks": 42,
+        "Penalty": 54
+      }
+    },
+    "Averages": {
+      "Mental": 38,
+      "Defense": 67,
+      "Attack": 42,
+      "Playmaking": 53,
+      "Athletic": 63,
+      "Set Pieces": 48
+    }
+  },
+  {
+    "ID": "6eedc59e-2525-4d6d-a63c-2bf141aef9d2",
+    "Name": "Michael Anderson",
+    "Shirt_Number": 83,
+    "Position": "Midfielder",
+    "Level": "Normal",
+    "Age": 29,
+    "Height": 186,
+    "Preferred_Foot": {
+      "Dominant Foot": "Right",
+      "Weak Foot Level": 1
+    },
+    "Stamina": 49,
+    "Fitness": "Moderate",
+    "Nationality": "CountryB",
+    "Stats": {
+      "Mental": {
+        "Aggression": 83,
+        "Teamwork": 15,
+        "Decisions": 13,
+        "Composure": 57
+      },
+      "Defense": {
+        "Tackling": 65,
+        "Marking": 65,
+        "Positioning": 72
+      },
+      "Attack": {
+        "Finishing": 47,
+        "Long Shots": 57,
+        "Off The Ball": 51
+      },
+      "Playmaking": {
+        "Creative": 63,
+        "Passing": 71,
+        "Crossing": 66
+      },
+      "Athletic": {
+        "Physical Power": 65,
+        "Ball Control": 54,
+        "Dribbling": 60,
+        "Jumping": 68,
+        "Acceleration": 57,
+        "Speed": 70,
+        "Heading": 77
+      },
+      "Set Pieces": {
+        "Free Kicks": 52,
+        "Penalty": 51
+      }
+    },
+    "Averages": {
+      "Mental": 42,
+      "Defense": 67,
+      "Attack": 52,
+      "Playmaking": 67,
+      "Athletic": 64,
+      "Set Pieces": 52
+    }
+  },
+  {
+    "ID": "77da0ee8-49ea-4ae9-8e67-adb7bd63b96e",
+    "Name": "Richard Martin",
+    "Shirt_Number": 86,
+    "Position": "Defender",
+    "Level": "Normal",
+    "Age": 29,
+    "Height": 188,
+    "Preferred_Foot": {
+      "Dominant Foot": "Right",
+      "Weak Foot Level": 3
+    },
+    "Stamina": 52,
+    "Fitness": "Peak",
+    "Nationality": "CountryA",
+    "Stats": {
+      "Mental": {
+        "Aggression": 82,
+        "Teamwork": 16,
+        "Decisions": 23,
+        "Composure": 42
+      },
+      "Defense": {
+        "Tackling": 72,
+        "Marking": 79,
+        "Positioning": 67
+      },
+      "Attack": {
+        "Finishing": 31,
+        "Long Shots": 35,
+        "Off The Ball": 21
+      },
+      "Playmaking": {
+        "Creative": 47,
+        "Passing": 50,
+        "Crossing": 54
+      },
+      "Athletic": {
+        "Physical Power": 78,
+        "Ball Control": 54,
+        "Dribbling": 57,
+        "Jumping": 67,
+        "Acceleration": 79,
+        "Speed": 75,
+        "Heading": 66
+      },
+      "Set Pieces": {
+        "Free Kicks": 72,
+        "Penalty": 47
+      }
+    },
+    "Averages": {
+      "Mental": 41,
+      "Defense": 73,
+      "Attack": 29,
+      "Playmaking": 50,
+      "Athletic": 68,
+      "Set Pieces": 60
+    }
+  }
+]
