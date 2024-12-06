@@ -27,3 +27,21 @@ export const login = async (email: string, password: string) => {
       }
     });
 };
+
+export const checkToken = async (token: string) => {
+  return await fetch(`${BASE_URL}/checkToken`, {
+    method: "GET",
+    headers: {
+      Accept: "application/json",
+      "Content-Type": "application/json",
+      authorization: `Bearer ${token}`,
+    },
+  })
+    .then(checkResponse)
+    .then((data) => {
+      return {
+        user: data,
+        accessToken: token,
+      };
+    });
+};
